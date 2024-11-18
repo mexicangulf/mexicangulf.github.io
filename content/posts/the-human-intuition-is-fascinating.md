@@ -1,0 +1,12 @@
+---
+title: "The human intuition is fascinating"
+date: 2024-11-18T19:07:32+03:30
+draft: true
+---
+
+Intuition is that sense of familiarity, that AH HUH moment, that connection you feel to someone, the music you like, your academic performance, the ideas you come up with, the things you create,  your everyday tasks and basically everything intuition is in the background running everything I am not sure if what I am saying scientifically holds up, but this is not the point of this article I just want to share how I think about intuition.
+
+### The consciousness
+this is the part of your brain where you live this is your emotions, sensations, thoughts and ideas that you are thinking about you exist in this part, and it has knowledge and sensation. Intuition is actively in the background analyzing input either from the outside (our senses) or from the inside (our internal state) drawing conclusions and driving knowledge this knowledge can be temporary or permeant, and it can be accessed at any point by the consciousness it can also alter our emotions, most people associate intuition with anxiety or the feeling you get when something is wrong, but you are not quite sure what it is, but I associate all emotions with intuition and hormones. Intuition is responsible for the feeling of love, and it's the source of all mathematical proofs, jokes, poetry, music, movies and art, or at least it's the source of all the good ones. I am still not sure if intuition is general (i.e. being good in one field means that you can be good in other fields) or if it's specialized (i.e. based on your brain you can only be exceptional in one or multiple related fields) but I lean more towards it being specialized.
+### Can I improve my Intuition? 
+The answer to the preceding question is yes, but there are limits that come down to your genetics, there is no doubt that some peoples intuitions are stronger than others and by spending the same amount of time as others on something will give them better results so yes you can improve it but to a point, and you may not get the same results by spending the same amount of time as someone else. My intuition is not great, and I know it, I face problems with tasks and challenges that pretty much come down to intuition yes it bothers me yes I don't know what to do.

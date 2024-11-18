@@ -13,7 +13,7 @@ git add .
 git commit -m "$m"
 
 # Push changes to the master branch using the stored credentials
-git push origin master
+git push origin master --force
 
 # Optional: Confirm success
 echo "Deployed and changes pushed to master!"

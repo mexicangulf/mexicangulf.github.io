@@ -29,3 +29,5 @@ Okay, I don’t have a spark, an internal fire — so what? Where does it come f
 But maybe I still have a chance at redemption. I have strong feelings for certain people, and lately, I’ve started to feel flickers of genuine interest — small, subtle, almost imperceptible, but there. It’s not much, but it’s real enough to notice if I pay attention. And maybe that’s the start of something I can actually build on.
 
 Thanks for putting your time into reading the least important, least interesting, least impactful essay of your life.
+
+

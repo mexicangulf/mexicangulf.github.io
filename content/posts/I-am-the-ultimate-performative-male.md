@@ -1,8 +1,17 @@
----
-title: "I am the ultimate performative male (kinda)"
-date: 2025-08-13T18:11:18+03:30
-draft: false
----
++++ 
+title = "I am the ultimate performative male"
+date = "2025-08-13" 
+author = "mexicangulf"
+authorTwitter = "" #do not include @
+cover = ""
+coverCaption = ""
+keywords = ["", ""]
+description = "" 
+showFullContent = false
+readingTime = false 
+hideComments = false
+color = "" #color from the theme settings
++++
 
 The performative male is a con artist, a tasteless impersonator that listens to Clairo, a chameleon if it was shit at its job because they are easy to spot.
 I call them tasteless not because their interests are bad (Clairo is actually good) but because they didn’t earn their interests; they are just copying what they see online consciously or subconsciously.

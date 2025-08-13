@@ -1,6 +1,6 @@
 ---
 title: "I am the ultimate performative male (kinda)"
-date: 2024-11-20T18:11:18+03:30
+date: 2025-08-13T18:11:18+03:30
 draft: false
 ---
 

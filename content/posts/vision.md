@@ -1,6 +1,6 @@
 +++ 
 title = "Vision"
-date = "2025-28-12" 
+date = "2025-12-28" 
 author = "Mexicangulf"
 authorTwitter = "" #do not include @
 cover = ""
